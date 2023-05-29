@@ -1,1 +1,2 @@
-# alu-web-development
+Web development course
+
